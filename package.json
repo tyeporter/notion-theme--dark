@@ -1,0 +1,29 @@
+{
+    "name": "notion-theme--dark",
+    "displayName": "Notion Theme (Dark)",
+    "description": "Theme based on Notion's code block",
+    "author": "Tye Porter <tyeporterapps@gmail.com>",
+    "publisher": "4orter",
+    "license": "MIT",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Notion Theme (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Notion Theme (Dark)-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tyeporter/notion-theme--dark"
+    }
+}
