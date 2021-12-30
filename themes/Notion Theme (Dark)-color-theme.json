@@ -398,6 +398,12 @@
 				"foreground": "#ECECED"
 			}
 		},
+        {
+            "scope": ["meta.method.declaration.js meta.var.expr.js storage.type.js"],
+            "settings": {
+                "foreground": "#D1939E"
+            }
+        },
 		{
 			"name": "Types declaration and references",
 			"scope": [
