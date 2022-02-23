@@ -6,7 +6,7 @@
     "publisher": "4orter",
     "license": "MIT",
     "icon": "icon.png",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
